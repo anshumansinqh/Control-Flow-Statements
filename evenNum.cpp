@@ -1,4 +1,4 @@
-//Anshuman Singh EntcA1 exp- even/odd number
+
 #include<iostream>
 
 using namespace std;
